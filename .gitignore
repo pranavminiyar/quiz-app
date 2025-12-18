@@ -1,0 +1,6 @@
+# Ignore real database credentials
+config/db.php
+
+# Ignore XAMPP junk (optional)
+*.log
+*.cache
